@@ -17,6 +17,7 @@ Tools: Git, GitHub, LeetHub
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
@@ -87,6 +88,7 @@ Tools: Git, GitHub, LeetHub
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
