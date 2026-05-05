@@ -71,6 +71,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
+| [0761-special-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -177,6 +178,7 @@ Tools: Git, GitHub, LeetHub
 | [0649-dota2-senate](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0709-to-lower-case) |
+| [0761-special-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -335,6 +337,7 @@ Tools: Git, GitHub, LeetHub
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
