@@ -101,6 +101,7 @@ Tools: Git, GitHub, LeetHub
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@ Tools: Git, GitHub, LeetHub
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
