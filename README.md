@@ -37,6 +37,7 @@ Tools: Git, GitHub, LeetHub
 | [0989-add-to-array-form-of-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -207,6 +208,7 @@ Tools: Git, GitHub, LeetHub
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0696-count-binary-substrings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0696-count-binary-substrings) |
+| [1089-duplicate-zeros](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1089-duplicate-zeros) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Trie
