@@ -31,6 +31,7 @@ Tools: Git, GitHub, LeetHub
 | [0396-rotate-function](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0396-rotate-function) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
@@ -76,6 +77,7 @@ Tools: Git, GitHub, LeetHub
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
@@ -211,6 +213,7 @@ Tools: Git, GitHub, LeetHub
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0696-count-binary-substrings) |
 | [1089-duplicate-zeros](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1089-duplicate-zeros) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -251,6 +254,7 @@ Tools: Git, GitHub, LeetHub
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -334,6 +338,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## String Matching
@@ -485,6 +490,7 @@ Tools: Git, GitHub, LeetHub
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
