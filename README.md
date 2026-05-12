@@ -27,6 +27,7 @@ Tools: Git, GitHub, LeetHub
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0396-rotate-function) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ Tools: Git, GitHub, LeetHub
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
@@ -87,6 +89,7 @@ Tools: Git, GitHub, LeetHub
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -103,6 +106,7 @@ Tools: Git, GitHub, LeetHub
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -344,6 +348,7 @@ Tools: Git, GitHub, LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -479,6 +484,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
@@ -539,4 +545,9 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
