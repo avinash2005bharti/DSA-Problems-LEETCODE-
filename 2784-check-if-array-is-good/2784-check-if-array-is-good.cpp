@@ -1,31 +1,25 @@
 class Solution {
 public:
     bool isGood(vector<int>& arr) {
-        unordered_map<int,int>mp;
-        int cnt =0;
         int n = arr.size();
-        int mx = INT_MIN;
-        for(int i=0;i<n;i++){
-            int cmax = arr[i];
-            mx = max(cmax,mx);
+        vector<int> freq(n + 1, 0);
+
+        int mx = *max_element(arr.begin(), arr.end());
+
+        // Maximum element must be n-1
+        if (mx != n - 1) return false;
+
+        for (int x : arr) {
+            if (x > n - 1) return false;
+            freq[x]++;
         }
-        if(mx>n) return false;
-        for(int i=0;i<n;i++){
-            mp[arr[i]]++;
+
+        // 1 to mx-1 should appear exactly once
+        for (int i = 1; i < mx; i++) {
+            if (freq[i] != 1) return false;
         }
-      for(auto x : mp){
-         if(x.first != mx){
-            int temp = x.first;
-            int freq = x.second;
-            if(mp.find(temp)!=mp.end()){
-                if(freq>1) return false;
-            }
-         }
-      }
-      if(mp.find(1)==mp.end()) return false;
-      if(mp.find(mx)!=mp.end()){
-        cnt = mp[mx];
-      }
-      return cnt==2;
+
+        // Maximum element should appear twice
+        return freq[mx] == 2;
     }
 };
