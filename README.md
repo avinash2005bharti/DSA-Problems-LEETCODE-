@@ -252,6 +252,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0326-power-of-three) |
@@ -521,6 +522,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
