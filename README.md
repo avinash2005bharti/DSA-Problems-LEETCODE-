@@ -20,6 +20,7 @@ Tools: Git, GitHub, LeetHub
 | [0001-two-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0075-sort-colors) |
@@ -266,6 +267,7 @@ Tools: Git, GitHub, LeetHub
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
