@@ -38,6 +38,7 @@ Tools: Git, GitHub, LeetHub
 | [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
+| [0881-boats-to-save-people](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [0944-delete-columns-to-make-sorted](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -88,6 +89,7 @@ Tools: Git, GitHub, LeetHub
 | [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0761-special-binary-string) |
+| [0881-boats-to-save-people](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
@@ -232,6 +234,7 @@ Tools: Git, GitHub, LeetHub
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0696-count-binary-substrings) |
+| [0881-boats-to-save-people](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1089-duplicate-zeros) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -490,6 +493,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0649-dota2-senate) |
+| [0881-boats-to-save-people](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0881-boats-to-save-people) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1710-maximum-units-on-a-truck) |
