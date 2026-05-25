@@ -22,6 +22,7 @@ Tools: Git, GitHub, LeetHub
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -117,6 +118,7 @@ Tools: Git, GitHub, LeetHub
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -287,6 +289,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
