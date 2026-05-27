@@ -153,6 +153,7 @@ Tools: Git, GitHub, LeetHub
 | [0029-divide-two-integers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
@@ -329,6 +330,7 @@ Tools: Git, GitHub, LeetHub
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -596,4 +598,8 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
