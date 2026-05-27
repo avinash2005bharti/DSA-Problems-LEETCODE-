@@ -1,12 +1,13 @@
 class Solution {
 public:
+    int fibo(int n, vector<int>&dp){
+        if(n<=1) return n;
+        if(dp[n]!=-1) return dp[n];
+        dp[n]= fibo(n-1,dp)+fibo(n-2,dp);
+        return dp[n];
+    }
     int fib(int n) {
-       vector<int>ans;
-       ans.push_back(0);
-       ans.push_back(1);
-       for(int i=2;i<n+1;i++){
-        ans.push_back(ans[i-1]+ans[i-2]);
-       }
-       return ans[n];
+        vector<int>dp(n+1,-1);
+        return fibo(n,dp);
     }
 };
