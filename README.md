@@ -29,6 +29,7 @@ Tools: Git, GitHub, LeetHub
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
@@ -331,6 +332,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
+| [0198-house-robber](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0746-min-cost-climbing-stairs) |
