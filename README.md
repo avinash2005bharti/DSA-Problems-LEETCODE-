@@ -74,6 +74,7 @@ Tools: Git, GitHub, LeetHub
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -185,6 +186,7 @@ Tools: Git, GitHub, LeetHub
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
