@@ -1,16 +1,21 @@
 class Solution {
 public:
     int minimumCost(vector<int>& cost) {
-        sort(cost.begin(), cost.end(), greater<int>());
+        priority_queue<int> mx(cost.begin(), cost.end());
 
-        int ans = 0;
+        int cst = 0;
+        int cnt = 0;
 
-        for (int i = 0; i < cost.size(); i++) {
-            if ((i + 1) % 3 != 0) {   // pay for 1st and 2nd candy
-                ans += cost[i];
+        while (!mx.empty()) {
+            cnt++;
+
+            if (cnt % 3 != 0) {  // pay for 1st and 2nd candy
+                cst += mx.top();
             }
+
+            mx.pop();  // always remove the candy
         }
 
-        return ans;
+        return cst;
     }
 };
