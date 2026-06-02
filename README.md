@@ -79,6 +79,7 @@ Tools: Git, GitHub, LeetHub
 | [3379-transformed-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -107,6 +108,7 @@ Tools: Git, GitHub, LeetHub
 | [2784-check-if-array-is-good](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting Sort
 |  |
@@ -248,6 +250,7 @@ Tools: Git, GitHub, LeetHub
 | [0881-boats-to-save-people](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1089-duplicate-zeros) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Trie
 |  |
@@ -294,6 +297,7 @@ Tools: Git, GitHub, LeetHub
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -518,6 +522,7 @@ Tools: Git, GitHub, LeetHub
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
 |  |
 | ------- |
