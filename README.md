@@ -22,6 +22,7 @@ Tools: Git, GitHub, LeetHub
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0075-sort-colors) |
@@ -304,6 +305,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -343,6 +345,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
