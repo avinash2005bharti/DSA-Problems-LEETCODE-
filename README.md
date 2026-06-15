@@ -164,6 +164,7 @@ Tools: Git, GitHub, LeetHub
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
@@ -351,6 +352,7 @@ Tools: Git, GitHub, LeetHub
 | [0005-longest-palindromic-substring](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
@@ -453,6 +455,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -500,6 +503,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -606,6 +610,7 @@ Tools: Git, GitHub, LeetHub
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
