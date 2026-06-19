@@ -9,10 +9,10 @@ public:
         int mxht = 0;
         int ht = 0;
         for(int i : gain){
-          ht = ht-i;
+          ht = ht+i;
           cout<<ht<<" ";
-          mxht = min(ht,mxht);
+          mxht = max(ht,mxht);
         }
-       return (-mxht);
+       return mxht;
     }
 };
