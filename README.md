@@ -62,6 +62,7 @@ Tools: Git, GitHub, LeetHub
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -109,6 +110,7 @@ Tools: Git, GitHub, LeetHub
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [1710-maximum-units-on-a-truck](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -125,6 +127,7 @@ Tools: Git, GitHub, LeetHub
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
@@ -545,6 +548,7 @@ Tools: Git, GitHub, LeetHub
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
