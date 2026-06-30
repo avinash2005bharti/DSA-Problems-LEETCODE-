@@ -153,6 +153,7 @@ Tools: Git, GitHub, LeetHub
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
@@ -242,6 +243,7 @@ Tools: Git, GitHub, LeetHub
 | [0944-delete-columns-to-make-sorted](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -416,6 +418,7 @@ Tools: Git, GitHub, LeetHub
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0658-find-k-closest-elements) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## String Matching
