@@ -84,6 +84,7 @@ Tools: Git, GitHub, LeetHub
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3379-transformed-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -133,6 +134,7 @@ Tools: Git, GitHub, LeetHub
 | [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Tools: Git, GitHub, LeetHub
 | [2784-check-if-array-is-good](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -211,6 +214,7 @@ Tools: Git, GitHub, LeetHub
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -326,6 +330,7 @@ Tools: Git, GitHub, LeetHub
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
@@ -359,6 +364,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
@@ -459,6 +465,7 @@ Tools: Git, GitHub, LeetHub
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Brainteaser
@@ -663,4 +670,5 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
