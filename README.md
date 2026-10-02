@@ -425,6 +425,7 @@ Tools: Git, GitHub, LeetHub
 | [0198-house-robber](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
+| [0688-knight-probability-in-chessboard](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1025-divisor-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
