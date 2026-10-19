@@ -84,6 +84,7 @@ Tools: Git, GitHub, LeetHub
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -135,6 +136,7 @@ Tools: Git, GitHub, LeetHub
 | [1833-maximum-ice-cream-bars](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2784-check-if-array-is-good) |
@@ -364,6 +366,7 @@ Tools: Git, GitHub, LeetHub
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
