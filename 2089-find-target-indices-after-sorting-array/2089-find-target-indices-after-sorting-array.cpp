@@ -1,12 +1,18 @@
+// o(n) approach
 class Solution {
 public:
+    vector<int>idx;
     vector<int> targetIndices(vector<int>& nums, int target) {
-        vector<int>idx;
-        sort(nums.begin(),nums.end());
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==target) idx.push_back(i);
+        int smaller = 0;
+        int equal = 0;
+        int larger = 0;
+        for(int i: nums){
+            if(i<target) smaller++;
+            else if (i==target) equal++;
+            else larger++;
         }
-        return idx;
-
+        cout<<smaller<<" "<<equal<<" "<<larger;
+        for(int i=smaller;i<smaller+equal;i++) idx.push_back(i);
+    return idx;
     }
 };
