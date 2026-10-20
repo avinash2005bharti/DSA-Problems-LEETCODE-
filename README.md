@@ -581,6 +581,7 @@ Tools: Git, GitHub, LeetHub
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/0841-keys-and-rooms) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -636,6 +637,7 @@ Tools: Git, GitHub, LeetHub
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/1791-find-center-of-star-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
@@ -697,6 +699,7 @@ Tools: Git, GitHub, LeetHub
 | [0199-binary-tree-right-side-view](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/0841-keys-and-rooms) |
 ## Binary Search Tree
 |  |
 | ------- |
