@@ -636,6 +636,7 @@ Tools: Git, GitHub, LeetHub
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/1791-find-center-of-star-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
