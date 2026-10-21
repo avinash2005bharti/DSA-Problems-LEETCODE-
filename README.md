@@ -298,6 +298,7 @@ Tools: Git, GitHub, LeetHub
 | [3120-count-the-number-of-special-characters-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3838-weighted-word-mapping](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
