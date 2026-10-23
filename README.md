@@ -109,6 +109,7 @@ Tools: Git, GitHub, LeetHub
 | [3634-minimum-removals-to-balance-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3838-weighted-word-mapping) |
@@ -342,6 +343,7 @@ Tools: Git, GitHub, LeetHub
 | [1009-complement-of-base-10-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/avinash2005bharti/DSA-Problems-LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
